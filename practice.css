@@ -1,0 +1,51 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+.twitter, .instagram, .youtube {
+    width: 230px;
+    height: 320px;
+    border: 2px solid black;
+    /* background-color: yellowgreen; */
+    margin: 20px 20px;
+    display: inline-block;
+}
+img {
+    width: 50px;
+text-align: center;
+margin-top: 10px;
+}
+h2 {
+    font-weight: bold;
+    text-align: center;
+}
+p{
+    text-align: center;
+    margin: 0 20px;
+}
+button {
+text-align: center;
+background-color: rgb(0, 0, 0);
+color: white;
+width: 200px;
+height: 35px;
+border-radius:  35px;
+font-weight: bold;
+
+}
+
+.instagram {
+    background-color: #E2306C ;
+    color: white;
+}
+
+.Insta-button {
+    background-color: white ;
+    color: #E2306C;
+    border-style: none;
+    font-weight: bold;
+}
